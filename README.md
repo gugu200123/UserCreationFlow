@@ -16,4 +16,7 @@ This project is a Java-based application that connects to a SQL Server database 
 - Security algorithms for password hashing and salting
 
 ---
+- **Default Admin Account**: For first-time login, use the credentials:
+  - **Email**: `admin@email.com`
+  - **Password**: `Adminadmin1@`
 
